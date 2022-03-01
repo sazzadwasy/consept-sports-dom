@@ -1,0 +1,10 @@
+#male{
+    display: none;
+}
+#female{
+    width: 300px;
+    display: none;
+}
+#loading{
+    display: none;
+}
